@@ -1,0 +1,24 @@
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Bienvenido.resources
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Login.resources
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\ESCRITORIO\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio_1.Bienvenido.resources
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio_1.Login.resources
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\DESK\FORMACION\IES\LABORATORIO-DE-PROGRAMACION-I\Practicas\Ejercicio 1 INTRODUCTORIO\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
